@@ -22,7 +22,7 @@
 
 ## Problems
 * [Strings]()
-      <br>* [ReverseString](https://github.com/harsha4030hari/DS_Geek/tree/master/src/main/java/com/pratice/geeks/DS_Geek/strings/duplicatesinString) -- Solved </br>
+      <br>* [Duplicate String](https://github.com/harsha4030hari/DS_Geek/tree/master/src/main/java/com/pratice/geeks/DS_Geek/strings/duplicatesinString) -- Solved </br>
       
 
 
