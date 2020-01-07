@@ -16,6 +16,10 @@
 </br>
 
 ## Tech Stack
+<p align="center">
+  <img width="1000" height="250" src="https://images.yourstory.com/cs/2/5739db30-22e7-11e9-9aaa-0334d2a19842/languages_(1)1555315116314.jpg">
+</p>
+
 
 * [Java](https://www.java.com/en/download/)
 
