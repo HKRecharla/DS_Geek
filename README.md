@@ -35,4 +35,7 @@
 ## Stories
 
 ## Blue Print
+<p align="center">
+  <img width="350" height="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaAsrI5ZR97MSpsDbxOOsDYVueF_eVf6YIt3hKCTxD57UVjFa-&s">
+</p>
 
